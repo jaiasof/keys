@@ -1,1 +1,2 @@
-ZYN-CURRENT
+local key = "ZYN-CURRENT"
+return key
