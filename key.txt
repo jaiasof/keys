@@ -1,2 +1,2 @@
-local key = "ZYN-PEOPLE"
+local key = "ZYN-OLDGOD"
 return key
