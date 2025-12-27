@@ -1,2 +1,2 @@
-local key = "ZYN-OLDGOD"
+local key = "ZYN-FORGE"
 return key
