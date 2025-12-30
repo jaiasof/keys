@@ -1,2 +1,2 @@
-local key = "ZYN-RUN"
+local key = "ZYN-ICED"
 return key
