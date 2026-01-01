@@ -1,2 +1,2 @@
-local key = "ZYN-BEER"
+local key = "ZYN-YEARN"
 return key
