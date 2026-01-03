@@ -1,2 +1,2 @@
-local key = "ZYN-OPPS"
+local key = "ZYN-GWAPO"
 return key
