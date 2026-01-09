@@ -1,2 +1,2 @@
-local key = "ZYN-POOP"
+local key = "ZYN-UTIL"
 return key
