@@ -1,2 +1,2 @@
-local key = "ZYN-CONE"
+local key = "ZYN-GINTO"
 return key
