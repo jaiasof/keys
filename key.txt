@@ -1,2 +1,2 @@
-local key = "ZYN-CRIP"
+local key = "ZYN-GOKU"
 return key
