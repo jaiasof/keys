@@ -1,2 +1,2 @@
-local key = "ZYN-ELSA"
+local key = "ZYN-PLANE"
 return key
