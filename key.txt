@@ -1,2 +1,2 @@
-local key = "ZYN-OLD"
+local key = "ZYN-3GS"
 return key
