@@ -1,2 +1,2 @@
-local key = "ZYN-WAVE"
+local key = "ZYN-FUBU"
 return key
