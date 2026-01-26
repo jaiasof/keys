@@ -1,2 +1,2 @@
-local key = "ZYN-SOUND"
+local key = "ZYN-INS"
 return key
