@@ -1,2 +1,2 @@
-local key = "ZYN-ACS"
+local key = "ZYN-CAMERA"
 return key
