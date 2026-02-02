@@ -1,2 +1,2 @@
-local key = "ZYN-CWTS"
+local key = "ZYN-TEAM"
 return key
