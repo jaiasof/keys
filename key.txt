@@ -1,2 +1,2 @@
-local key = "ZYN-DEGREE"
+local key = "ZYN-CWTS"
 return key
