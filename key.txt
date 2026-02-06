@@ -1,2 +1,2 @@
-local key = "ZYN-VESSEL"
+local key = "ZYN-BOSS"
 return key
