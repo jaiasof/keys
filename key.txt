@@ -1,2 +1,2 @@
-local key = "ZYN-BOSS"
+local key = "ZYN-IPHONE"
 return key
