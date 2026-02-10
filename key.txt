@@ -1,2 +1,2 @@
-local key = "ZYN-FLOW"
+local key = "ZYN-CMON"
 return key
