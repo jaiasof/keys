@@ -1,2 +1,2 @@
-local key = "ZYN-CMON"
+local key = "ZYN-BRO"
 return key
