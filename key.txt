@@ -1,2 +1,2 @@
-local key = "ZYN-REWARD"
+local key = "ZYN-VALENTINE"
 return key
