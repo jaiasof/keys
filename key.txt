@@ -1,2 +1,2 @@
-local key = "ZYN-LANGIT"
+local key = "ZYN-LOOT"
 return key
