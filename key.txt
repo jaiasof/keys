@@ -1,2 +1,2 @@
-local key = "ZYN-ORIENT"
+local key = "ZYN-PRACTICE"
 return key
