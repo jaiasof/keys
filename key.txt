@@ -1,2 +1,2 @@
-local key = "ZYN-OC"
+local key = "ZYN-BAMBOO"
 return key
