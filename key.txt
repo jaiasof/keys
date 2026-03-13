@@ -1,2 +1,2 @@
-local key = "ZYN-NETHER"
+local key = "ZYN-SISIG"
 return key
