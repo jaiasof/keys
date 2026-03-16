@@ -1,2 +1,2 @@
-local key = "ZYN-PROUD"
+local key = "ZYN-SAD"
 return key
